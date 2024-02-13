@@ -30,9 +30,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/image_shrek.jpeg" alt="Logo" width="80" height="80">
-  </a>
+    <img src="images/logo_shrek.jpeg" alt="Logo" width="80" height="80">
+</a>
 
   <h3 align="center">Best-README-Template</h3>
 
