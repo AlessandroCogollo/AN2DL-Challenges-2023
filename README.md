@@ -10,7 +10,7 @@
   <p align="center">
     Two neural networks for two tasks
     <br />
-    <a href="https://github.com/AlessandroCogollo/AN2DL-Challenges-2023/blob/main/1st%20challenge/Report%20-%20Final%20Version.pdf"><strong>Docs 1st Project »</strong></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="[https://github.com/othneildrew/Best-README-Template](https://github.com/AlessandroCogollo/AN2DL-Challenges-2023/blob/main/2nd%20challenge/Report.pdf)"><strong>Docs 2nd Project »</strong></a>
+    <a href="https://github.com/AlessandroCogollo/AN2DL-Challenges-2023/blob/main/1st%20challenge/Report%20-%20Final%20Version.pdf"><strong>Docs 1st Project »</strong></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/othneildrew/Best-README-Template](https://github.com/AlessandroCogollo/AN2DL-Challenges-2023/blob/main/2nd%20challenge/Report.pdf)"><strong>Docs 2nd Project »</strong></a>
     <br />
     
   </p>
@@ -19,7 +19,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Neural Networks and Deep Learning 2023/24
 
-This repository contains two projects that completed as part of a university course on Artificial Neural networks and Deep Learning, both graded with a score of 10 out of 10 points. The projects' tasks, as well as training datasets, are described below and can be found here: [1st challenge]([https://codalab.lisn.upsaclay.fr/competitions/16514]), [2nd challenge](https://codalab.lisn.upsaclay.fr/competitions/16514).
+This repository contains two projects that completed as part of a university course on Artificial Neural networks and Deep Learning, both graded with a score of 10 out of 10 points. The projects' tasks, as well as training datasets, are described below and can be found here: [1st challenge](https://codalab.lisn.upsaclay.fr/competitions/16514), [2nd challenge](https://codalab.lisn.upsaclay.fr/competitions/16514).
 
 - **Plant Health Classification**: The task involves classifying plants into two categories based on their health status using a binary classification network. The dataset consists of 5200 RGB images, each measuring 96x96 pixels. We adopted a systematic approach to tackle the challenge, starting with the LeNet architecture and gradually moving to more complex convolutional neural network (CNN) architectures, ultimately utilizing EfficientNet, to establish a baseline, analyze performance, and introduce more complex architectures for improved classification accuracy.
 
